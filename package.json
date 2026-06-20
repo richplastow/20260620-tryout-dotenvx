@@ -1,0 +1,15 @@
+{
+  "name": "20260620-tryout-dotenvx",
+  "version": "1.0.0",
+  "description": "A simple project to demonstrate using `dotenvx` in Node.js",
+  "license": "MIT",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@dotenvx/dotenvx": "^1.75.0"
+  }
+}
